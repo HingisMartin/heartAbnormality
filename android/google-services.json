@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237257055530",
+    "firebase_url": "https://heart-abnormality-detector.firebaseio.com",
+    "project_id": "heart-abnormality-detector",
+    "storage_bucket": "heart-abnormality-detector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237257055530:android:885c3fc5af5ff4db",
+        "android_client_info": {
+          "package_name": "com.example.heartabnormalities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237257055530-3vc6klh6ib3f1kfrtuhlq47h8vbog73c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoIz9vxX7bA1geEIh__rZbpLNdbQ4XVH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
